@@ -15,8 +15,8 @@ Once opened, the game will automatically pause and display the controls. The pla
 To import this project into your own Unity editor, Follow these steps:
 1. You will need to have Unity version 2022.3.17f1 installed. You may install it using Unity Hub available here: https://unity.com/download
 2. You will need to download the project files from this Github repo. for this, there are two options.<br />
-   a. If you already have git installed on your device, you can clone the repo using the GUI options or the following command: git clone https://github.com/jwporath/Pong.git Pong-main<br />
-   b. If you do not have git installed, you may click the green "Code" button at the top of this page and select "Download ZIP". Once downloaded, extract Pong-main from the zip folder.
+   A. If you already have git installed on your device, you can clone the repo using the GUI options or the following command: git clone https://github.com/jwporath/Pong.git Pong-main<br />
+   B. If you do not have git installed, you may click the green "Code" button at the top of this page and select "Download ZIP". Once downloaded, extract Pong-main from the zip folder.
 4. Now that we have our project files, you'll want to open Unity Hub and go to the "projects" page. From here, click the dropdown arrow next to the "add" button and select "add project from disk".
 5. A file explorer will come up automatically. navigate to the location you extracted or cloned the project files and select the "Pong-main" folder.
 6. Simply click on the new "Pong-main" project in Unity Hub to open the project. This may take some time as Unity is setting up the new project.
